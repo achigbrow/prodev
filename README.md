@@ -2,7 +2,7 @@
 
 # My Links
 * [Linkedin](https://www.linkedin.com/in/alana-chigbrow-03a40996/)
-* [Resume](docs/DRAFT1RESUME.pdf)
+* [Resume](docs/DRAFT1Resume.pdf)
 
 
 
@@ -36,3 +36,5 @@
  
 # Passion Project
 My passion, my why, is that I want to contribute meaningfully to our world. I can best do this by building tools that help people to do their jobs better. My focus is on the scientific and educational fields. I use my 'logic' by devising tools and methods that are simple and efficient. I use my 'feeling' through empathy with my end user. What are their trials? How can I help them? What do they need/want?
+
+I am currently in the beginning stages of designing a tool to assist with crowd sourcing data collection. My 'logic' helps me to understand the different tables I need to build and how to build the product over all. My 'feeling' helps me to understand how best to present the data visually and how to build from the user perspective.
