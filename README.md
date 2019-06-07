@@ -1,10 +1,26 @@
-# prodev
-# Accomplishments
-## Quantitative
+# Pro Dev
+
+# My Links
+* [Linkedin](https://www.linkedin.com/in/alana-chigbrow-03a40996/)
+* [Resume](docs/DRAFT1RESUME.pdf)
+
+
+
+
+# Pro Dev Activities
+
+## Experience
+![Experience](docs/Experience.png)
+
+## Why
+![Why](docs/why.png)
+
+## Accomplishments
+### Quantitative
 * Reduced customer turnover by 41% over the course of one quarter by creating an outreach program based on analysis of customer contacts.
 * Saved the NMDOT $30k annually by leveraging in-house resources to teach Microsoft Office Suite to Engineers, Financial Analysts, and support employees.
 * Turned a failing EPA inspection score of 2 into a passing score of 98 over the course of three months through coordination, training, and resource allocation for an aviation maintenance company of 120 personnel.
-## Qualitative
+### Qualitative
 * Driven
   * Work is completed well and on time
   * Do more than asked
