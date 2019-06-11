@@ -36,10 +36,19 @@ Career Buddy = Matthew Jones
   * Accurate feedback and direct
   * Less than emotionally astute
  
-# Passion Project
+## Passion Project
 My passion, my why, is that I want to contribute meaningfully to our world. I can best do this by building tools that help people to do their jobs better. My focus is on the scientific and educational fields. I use my 'logic' by devising tools and methods that are simple and efficient. I use my 'feeling' through empathy with my end user. What are their trials? How can I help them? What do they need/want?
 
 I am currently in the beginning stages of designing a tool to assist with crowd sourcing data collection. My 'logic' helps me to understand the different tables I need to build and how to build the product over all. My 'feeling' helps me to understand how best to present the data visually and how to build from the user perspective.
+
+## Identity Now & Then
+![NT](docs/nt.jpg)
+
+I just left my last position as a Training Manager. I’ve been working in training since I graduated as a ‘hold-over’ career so that I could support my family. The first image represents the sort of mindless drudgery that is the “9-5”. 
+
+I’m now in a position to pursue my dream of making a difference in the world through technology. I want to create rather than punching a clock. I am building my skills, knowledge, and experience in the software engineering field in order to live this dream. The second image represents happiness and freedom.
+
+
 
 # Weekly Reflections
 
