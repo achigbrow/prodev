@@ -1,12 +1,13 @@
 # Pro Dev
 
-Last Updated: June 7, 2016
+Last Updated: June 11, 2016
 
 Career Buddy = Matthew Jones
 
 # My Links
 * [Linkedin](https://www.linkedin.com/in/alana-chigbrow-03a40996/)
-* [Resume](docs/DRAFT1Resume.pdf)
+* [Resume-Draft 1](docs/DRAFT1Resume.pdf)
+* [Resume-Draft 2](docs/Alana-Chigbrow-Resume2.pdf)
 
 
 # Pro Dev Activities
