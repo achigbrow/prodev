@@ -55,3 +55,6 @@ I’m now in a position to pursue my dream of making a difference in the world t
 
 ## Week 1
 I still want to be a software engineer. I am struggling somewhat, but not so badly that I am concerned. We learn so much in a single week that I can't really say what I learned.
+
+## Week 2
+I enjoyed the maker space and the million cups. I ran into a guy who I knew when I was in elementary/middle school in Las Cruces. He's a patent attorney which is neat. It's  a small state. I'm tired, but I still want to be a developer. My career buddy is great. He's going to help me out with a couple of sound files for my project.
