@@ -58,3 +58,6 @@ I still want to be a software engineer. I am struggling somewhat, but not so bad
 
 ## Week 2
 I enjoyed the maker space and the million cups. I ran into a guy who I knew when I was in elementary/middle school in Las Cruces. He's a patent attorney which is neat. It's  a small state. I'm tired, but I still want to be a developer. My career buddy is great. He's going to help me out with a couple of sound files for my project.
+
+## Week 3
+I thought the Forbidden Island exercise went well. David was unfortunately absent. Denelle and I discussed the fact that we both have to keep a hold of our natural tendencies to take charge as we are both former teachers/instructors. Anita was great at understanding the rules and getting us moving in a practical direction. She is also a good team player. I found myself helping her with a few tactical suggestions. Denelle is also a great team player and has a strong grasp of tactics. She is better than I am at holding herself. I think I'm a bit overexcited. I found myself giving a lot of suggestions. Partly, because I have played this game before. I think I did it in a diplomatic way as no one seemed upset nor did they say they were upset. I guess you'll know better as you're reading their reflections as well.
